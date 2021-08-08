@@ -144,6 +144,7 @@ main .card-img{
 
   main .card-img{
     height: 27rem;
+    background-position: top;
   }
 
 }
